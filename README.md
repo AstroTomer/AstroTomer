@@ -15,7 +15,7 @@ Python socket-based remote desktop project for screen, mouse, and keyboard contr
 ### 2. Parallel Drone Delivery
 C / OpenMP simulation focused on parallel route assignment, scheduling, benchmarking, and performance optimization.
 
-### 3. BestProject
+### 3. GoogleDrive
 Full-stack Google Drive-style system with web/mobile clients, backend, database, Docker, Git, and Jira-based development.
 ![](https://github-readme-stats.shion.dev/api?username=AstroTomer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 # 📊 GitHub Stats:
